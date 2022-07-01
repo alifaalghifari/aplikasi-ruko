@@ -1,6 +1,6 @@
 ## Database
 
-Saya menggunakan database SQL dengan MySQL 8.0 sebaga DBMS.
+Saya menggunakan database SQL dengan MySQL 8.0 sebagai DBMS.
 
 Cara Pakai
 
